@@ -7,6 +7,7 @@ char nickname_list[25][50] = {
     "Dr. Mali*", 
 //*** I suggest that you do not modify above ***
     "DRAM",
+    "DUHA"
 
 
 //*** I suggest that you do not modify below ***
